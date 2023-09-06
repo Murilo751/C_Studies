@@ -12,5 +12,5 @@ add_executable(C_Studies main.c
         "HackerRank_Exercises/Pointers_In_C .c"
         "HackerRank_Exercises/Conditional_Statements_In_C .c"
         HackerRank_Exercises/For_Loop_In_C.c
-        HackerRank_Exercises/Sum_Of_Digits_Of_A_Five_Digit_Number.cpp
+        HackerRank_Exercises/Sum_Of_Digits_Of_A_Five_Digit_Number.c
         HackerRank_Exercises/Bitwise_Operators.c)
