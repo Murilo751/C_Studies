@@ -13,4 +13,7 @@ add_executable(C_Studies main.c
         "HackerRank_Exercises/Conditional_Statements_In_C .c"
         HackerRank_Exercises/For_Loop_In_C.c
         HackerRank_Exercises/Sum_Of_Digits_Of_A_Five_Digit_Number.c
-        HackerRank_Exercises/Bitwise_Operators.c)
+        HackerRank_Exercises/Bitwise_Operators.c
+        Data_Structure_Exercises/Exercise_ED_Exercicio_Listas_Ordenadas.c
+        Data_Structure_Exercises/Exercise1_Struct.c
+        Data_Structure_Exercises/Exercise1_Filas.c)

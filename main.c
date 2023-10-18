@@ -3,6 +3,6 @@
 int main(void) {
 //    chame o execicio aqui
 //   exemple: Exercise1();
-     E1RS2();
+    E1S();
     return 0;
 }
