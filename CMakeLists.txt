@@ -16,4 +16,13 @@ add_executable(C_Studies main.c
         HackerRank_Exercises/Bitwise_Operators.c
         Data_Structure_Exercises/Exercise_ED_Exercicio_Listas_Ordenadas.c
         Data_Structure_Exercises/Exercise1_Struct.c
-        Data_Structure_Exercises/Exercise1_Filas.c)
+        Data_Structure_Exercises/Exercise1_Filas.c
+        Data_Structure_Exercises/Exercise1_ED_Exercicio_Pesquisa.c
+        Data_Structure_Exercises/Exercise1_ED_Exercicio_Pesquisa.c
+        Data_Structure_Exercises/Exercise1_ED_Exercicio_Pesquisa.c
+        Data_Structure_Exercises/Exercise1_ED_Exercicio_Pesquisa.c
+        Data_Structure_Exercises/Exercise1_ED_Exercicio_Pesquisa.c
+        Data_Structure_Exercises/Exercise1_ED_Exercicio_Pesquisa.c
+        HackerRank_Exercises/Fila.c
+        HackerRank_Exercises/InsertSort.c
+        "HackerRank_Exercises/Busca binaria.c")
